@@ -1,4 +1,4 @@
-**Encrypter: A Simple Python-based Encrypter**
+**Encrypter: A Simple Javascript-based Encrypter**
 =====================================================
 
 **Warning:** I am new to javascript and this is my first project.
