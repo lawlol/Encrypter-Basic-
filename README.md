@@ -1,7 +1,7 @@
 **Encrypter: A Simple Javascript-based Encrypter**
 =====================================================
 
-**Warning:** I am new to javascript and this is my first project.
+**Warning:** I am new to Javascript and this is my first project.
 
 --------
 
