@@ -1,5 +1,5 @@
-CryptoJS = require('crypto-js');
-fs = require('fs');
+const CryptoJS = require('crypto-js');
+const fs = require('fs');
 
 function EncryptCode(code) {
   const key = 'key here';
