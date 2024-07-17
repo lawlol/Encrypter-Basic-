@@ -9,14 +9,17 @@
 ---------------------------
 
 To use this Encrypter, you'll need to have the following installed on your system:
-crypto-js
-fs
+- `crypto-js`
+- `fs`
 
 **Run Usage**
------
-const code = ReadCodeFromFile('code.js'); Replace this with your own path.
+-------------
+
+```javascript
+const code = ReadCodeFromFile('code.js'); // Replace this with your own path.
 const encrypted = EncryptCode(code);
-RunEncryptedCode(encrypted)
+RunEncryptedCode(encrypted);
+```
   
 **License**
 -------
